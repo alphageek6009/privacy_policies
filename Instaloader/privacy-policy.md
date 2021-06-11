@@ -2,7 +2,7 @@
 
 ![Privacy image](https://branddeals.in/wp-content/uploads/2019/05/Privacy-policy.jpg)
 
-## Last updated: 
+## Last updated
 June 11, 2021
 
 ## Introduction
@@ -24,7 +24,7 @@ Privacy Policy describes Our policies and procedures on the collection, use and 
 
 ## Contact
 
-To contact us on topics related to products, privacy policy or in another case, use *aphageek@gmail.com*
+To contact us on topics related to product, privacy policy or in another case, use *aphageek@gmail.com*
 
 Best regards!
 
